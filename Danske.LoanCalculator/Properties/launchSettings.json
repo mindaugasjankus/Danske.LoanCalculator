@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Danske.LoanCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "--LoanAmount 500000 --DurationInMonths 120 --Compound 12"
+    }
+  }
+}
